@@ -1,4 +1,4 @@
- jaffle_shop:
+ demo_jaffle_shop:
   target: dev
   outputs:
     dev:
