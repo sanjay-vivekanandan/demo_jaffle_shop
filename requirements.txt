@@ -1,2 +1,2 @@
-dbt-snowflake==1.5.0
+dbt-snowflake==1.4.5
 pre-commit==2.18.1
