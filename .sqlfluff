@@ -13,6 +13,9 @@ template_blocks_indent = True
 [sqlfluff:templater]
 unwrap_wrapped_queries = True
 
+[sqlfluff:templater:dbt]
+project_dir = ./
+
 [sqlfluff:templater:jinja]
 apply_dbt_builtins = True
 
