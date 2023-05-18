@@ -45,7 +45,7 @@ customer_payments as (
 
 final as (
 
-    SELECT
+    select
         customers.customer_id,
         customers.first_name,
         customers.last_name,
